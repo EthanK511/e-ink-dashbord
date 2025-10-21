@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/21/2025 - THE PLAN  
+## 10/21/2025 11:20 AM - THE PLAN  
 
 <p data-start="303" data-end="447">Today I spent time <strong data-start="338" data-end="378">researching the components and setup</strong> for my Personal E-Ink Dashboard project. I finalized the hardware:</p>
 <ul data-start="449" data-end="690">
@@ -97,5 +97,38 @@ Connect to Wi-Fi and fetch the current time
 Plan the layout for time, weather, and calendar events on the 2.66" screen
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7590252c5a6cb307cc738b243503637c83546002/image.png)
+  
+
+## 10/21/2025 11:26 AM - Wireing  
+
+`<html><head></head><body>
+E-Paper Pin | ESP32 Pin | Notes
+-- | -- | --
+VCC | 3.3V | Power
+GND | GND | Ground
+DIN (MOSI) | GPIO 23 | SPI MOSI
+CLK (SCK) | GPIO 18 | SPI Clock
+CS | GPIO 5 | Chip Select
+DC | GPIO 17 | Data/Command
+RST | GPIO 16 | Reset
+BUSY | GPIO 4 | Busy/ready
+
+</body></html>`
+
+2. Required Arduino Libraries
+
+Install these via Library Manager:
+
+GxEPD2 → For e-paper display
+
+WiFi → ESP32 Wi-Fi
+
+HTTPClient → Fetch API data
+
+ArduinoJson → Parse JSON from weather & calendar APIs
+
+NTPClient → Get network time
+
+![Screenshot 2025-10-21 11.26.38 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--dad283b0328bb697335c4507f23e2b8ec7d33356/Screenshot%202025-10-21%2011.26.38%20AM.png)
   
 
