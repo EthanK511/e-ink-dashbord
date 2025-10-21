@@ -197,3 +197,14 @@ found some parts that will work together for $25 total from 2 websites to get th
 
   
 
+## 10/21/2025 4 PM - On The Way  
+
+![Screenshot 2025-10-21 3.30.25 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--fa42c2d7468f87fb1b66b2ed3d8f95bb0ec959bc/Screenshot%202025-10-21%203.30.25%20PM.png)
+
+![Screenshot 2025-10-21 3.30.42 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--c08e9804aa6d04062b633729877d0ef960c1eb95/Screenshot%202025-10-21%203.30.42%20PM.png)
+
+They are on the way home they come soon
+i tried to find the best combo possible for under $30 with shipping and tax so that this is a very doable project
+
+  
+
