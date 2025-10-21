@@ -132,3 +132,54 @@ NTPClient → Get network time
 ![Screenshot 2025-10-21 11.26.38 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--dad283b0328bb697335c4507f23e2b8ec7d33356/Screenshot%202025-10-21%2011.26.38%20AM.png)
   
 
+## 10/21/2025 11:35 AM - LAYOUT  
+
+<h2 data-start="260" data-end="287"><strong data-start="263" data-end="287">1. Color Usage Ideas</strong></h2>
+<div class="_tableContainer_1rjym_1"><div tabindex="-1" class="group _tableWrapper_1rjym_13 flex w-fit flex-col-reverse">
+Element | Suggested Color | Reason / Notes
+-- | -- | --
+Time & Date | Black | Always readable, primary info
+Weather | Black / Red | Red for extreme conditions (hot/cold alerts), black for normal
+Calendar Events | Black / Red | Red for urgent events, black for normal
+Optional Quote | Yellow | Adds highlight / attention without overpowering
+Icons / separators | Yellow / Red | Can highlight weather type (sun, cloud, alert)
+
+</div></div>
+<blockquote data-start="841" data-end="1003">
+<p data-start="843" data-end="1003">Note: E-paper tri-color displays usually use <strong data-start="888" data-end="918">Black + Red/Yellow + White</strong> (background). You can only set one “non-black” color per pixel, so plan carefully.</p></blockquote>
+
++------------------------------------------------+
+| TIME (Black)                                  |
+| HH:MM                                         |
+| Day, Date                                     |
++------------------------------------------------+
+| WEATHER                                      |
+| [Weather Icon: Black/Sun, Red/Alert] Temp°C |
+| Condition                                     |
++------------------------------------------------+
+| CALENDAR EVENTS                               |
+| Event 1 (Black)                               |
+| Event 2 (Red if urgent)                       |
+| Event 3                                       |
++------------------------------------------------+
+| OPTIONAL QUOTE (Yellow)                       |
+| "Have a great day!"                           |
++------------------------------------------------+
+
+4. Suggested Color Strategy for Dashboard
+
+Time / Date: Black
+
+Weather Temp: Black
+
+Weather Alerts: Red (if temp > 30°C or < 0°C, etc.)
+
+Upcoming Calendar Events: Red if urgent (like “Meeting in 1 hr”), Black otherwise
+
+Fun Fact / Quote: Yellow
+
+Optional Icons / Borders: Yellow highlights for separation
+
+![render(1).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--ab2f1743c26759913cf2044708045dd4a698b68e/ChatGPT%20Image%20Oct%2021%2C%202025%2C%2011_35_06%20AM.png)
+  
+
