@@ -1,0 +1,14 @@
+#include <GxEPD2_BW.h>
+#include <GxEPD2_3C.h>  // Tri-color displays
+
+// Example for Waveshare 2.66" B tri-color (Black, Red/Yellow, White)
+GxEPD2_3C<GxEPD2_266c, GxEPD2_266c::HEIGHT> display(GxEPD2_266c(/*CS*/5, /*DC*/17, /*RST*/16, /*BUSY*/4));
+
+// Drawing with colors
+display.setTextColor(GxEPD_BLACK); // black
+display.print("Normal text");
+
+display.setTextColor(GxEPD_RED);   // red (or yellow, depends on your module)
+display.print("Alert!");
+
+display.fillRect(x, y, w, h, GxEPD_YELLOW); // fill area with yellow
