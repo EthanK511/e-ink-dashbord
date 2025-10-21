@@ -183,3 +183,17 @@ Optional Icons / Borders: Yellow highlights for separation
 ![render(1).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--ab2f1743c26759913cf2044708045dd4a698b68e/ChatGPT%20Image%20Oct%2021%2C%202025%2C%2011_35_06%20AM.png)
   
 
+## 10/21/2025 3 PM - THE PARTS  
+
+found some parts that will work together for $25 total from 2 websites to get the best deals and the best components
+
+[Type-C ESP32 ESP-WROOM-32](https://www.amazon.com/ESP-WROOM-32-Development-Microcontroller-Integrated-Compatible/dp/B0DF2YJSHN?th=1)
+[E-INK Display](https://www.waveshare.com/product/displays/e-paper/2.66inch-e-paper-module-b.htm)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIwMywicHVyIjoiYmxvYl9pZCJ9fQ==--57352af31f131bf8adac3fddb31fdda7fe902f97/image.png)
+
+
+
+
+  
+
