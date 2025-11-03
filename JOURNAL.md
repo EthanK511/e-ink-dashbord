@@ -208,3 +208,10 @@ i tried to find the best combo possible for under $30 with shipping and tax so t
 
   
 
+## 11/3/2025 - Setbacks  
+
+The parts came today, finally. The ESP board works great; however, the display has a software bug. I've found another display, Waveshare 2.15-inch E-Paper Display (B) E-Ink Display, 296x160, Red/Black/White. This option should be cheaper without sacrificing too much quality or size, and more importantly, I've been assured that it comes with a display cable to eliminate the issue with the other display.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--5ff2e7ba60c88826d9e5b4fad7a921b52ae75b78/image.png)
+  
+
