@@ -215,3 +215,26 @@ The parts came today, finally. The ESP board works great; however, the display h
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODIxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--6a2d1833b85bb0301ec6ef5ef5c4e527c7bcf2b2/image.png)
   
 
+## 11/6/2025 - Parts Received testing Has Begin  
+
+Ive received the parts and so far have wired them all together;
+
+<html><head></head><body>
+EPaper Pin | ESP32 Pin
+-- | --
+VCC | 3V3
+GND | GND
+DIN | GPIO23
+CLK | GPIO18
+CS | GPIO5
+DC | GPIO17
+RST | GPIO16
+BUSY | GPIO4
+
+</body></html>
+
+I've also begin testing with code ect
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTAyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--48b508de273e5cb9d0b3d8d6308452c002f7b4da/image.png)
+  
+
