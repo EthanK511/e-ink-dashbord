@@ -215,7 +215,7 @@ The parts came today, finally. The ESP board works great; however, the display h
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODIxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--6a2d1833b85bb0301ec6ef5ef5c4e527c7bcf2b2/image.png)
   
 
-## 11/6/2025 - Parts Received testing Has Begin  
+## 11/6/2025 - Parts Received testing Has Begun  
 
 Ive received the parts and so far have wired them all together;
 
