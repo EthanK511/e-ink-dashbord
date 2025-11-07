@@ -215,7 +215,7 @@ The parts came today, finally. The ESP board works great; however, the display h
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODIxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--6a2d1833b85bb0301ec6ef5ef5c4e527c7bcf2b2/image.png)
   
 
-## 11/6/2025 - Parts Received testing Has Begun  
+## 11/6/2025 4 PM - Parts Received testing Has Begun  
 
 Ive received the parts and so far have wired them all together;
 
@@ -236,5 +236,13 @@ BUSY | GPIO4
 I've also begin testing with code ect
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTAyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--48b508de273e5cb9d0b3d8d6308452c002f7b4da/image.png)
+  
+
+## 11/6/2025 7 PM - Testing  
+
+Testing not going well
+
+![A39807F9-C044-412D-82BE-DEA5CA239CF5_1_102_o](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--686ef44afe82e659831de064d6ddeeab6fdb5387/A39807F9-C044-412D-82BE-DEA5CA239CF5_1_102_o.jpeg)
+[E9C6F83E-0571-4EC4-A870-2EA976B0E229](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--9b220c323d99245571750e7ab812c89e40a6e9b2/E9C6F83E-0571-4EC4-A870-2EA976B0E229.heic)
   
 
