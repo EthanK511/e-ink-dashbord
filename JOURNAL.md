@@ -246,3 +246,10 @@ Testing not going well
 [E9C6F83E-0571-4EC4-A870-2EA976B0E229](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--9b220c323d99245571750e7ab812c89e40a6e9b2/E9C6F83E-0571-4EC4-A870-2EA976B0E229.heic)
   
 
+## 11/7/2025 - Progress?  
+
+Ive spent many hours today between classes and after school trying to get just some simple text displayed on the screen and this is what i have so far:
+
+![0F5BA566-D2B9-4462-B682-6B1B059E08F2_1_105_c](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--a2bab0089bb12d53a4be71653ed2af3602d1d8d9/0F5BA566-D2B9-4462-B682-6B1B059E08F2_1_105_c.jpeg)
+  
+
