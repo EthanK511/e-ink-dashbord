@@ -61,7 +61,6 @@ Built-in libraries used:
 - `WiFi.h`
 - `HTTPClient.h`
 
----
-
-## Folder Structure
+![IMG_0304](https://github.com/user-attachments/assets/046c9792-9067-4f04-a343-e20aec860fb6)
+![IMG_0281](https://github.com/user-attachments/assets/9b08db3d-b5bf-43df-92fc-a584511c6cc7)
 
